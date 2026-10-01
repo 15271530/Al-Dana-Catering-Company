@@ -23,3 +23,17 @@ Catering &amp; Event Management Analytics | Qatar | 2025–2026
 </table>
 
 </div>
+
+---
+### Client Background
+
+**Al Dana Catering** is a catering and event management company operating in Qatar. The company provides catering for corporate meetings, weddings, private functions, conferences, and large-scale institutional events.
+
+Al Dana Catering's dataset comprises **300 customers, 500 events, and 960 orders**, with more than 3,300 order detail records across **28 menu items**. The available business data covers multiple dimensions and metrics, including sales revenue, customer segments, event types, menu performance, operating expenses, geographic distribution, order fulfilment, and payment methods.
+
+Reporting to the Head of Operations, an analysis was conducted to evaluate Al Dana Catering's 2025–2026 performance, providing insights to improve profitability, control costs, enhance operational efficiency, and strengthen customer retention.
+
+**The key insights and recommendations focus on the following areas:**
+- **Which catering services and menu items generate the highest revenue and profit margins, and which are driving profitability down?**
+- **How effectively does Al Dana Catering manage operating expenses and fulfil customer orders across different event types and locations?**
+- **Which customer segments and acquisition channels generate the most revenue, and how effectively does Al Dana Catering retain repeat customers?**
