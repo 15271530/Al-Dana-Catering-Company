@@ -1,0 +1,301 @@
+﻿Customer_ID,Customer_Name,Customer_Type,City,First_Order_Date,Acquisition_Channel,Customer_Code
+1,Lusail Events Holding,Healthcare,Al Wakrah,2025-04-25,Website,CUS0001
+2,North Star Logistics,Healthcare,Al Rayyan,2025-08-05,Direct Sales,CUS0002
+3,Qatar Facilities Co.,Corporate,Doha,2025-10-15,Website,CUS0003
+4,North Star Logistics,Healthcare,Al Daayen,2025-04-23,WhatsApp,CUS0004
+5,Pearl Horizon Trading,Education,Lusail,2025-08-05,Phone,CUS0005
+6,Desert Bloom Hospitality,Hotel,Al Rayyan,2025-02-17,WhatsApp,CUS0006
+7,Desert Bloom Hospitality,Corporate,Al Khor,2025-01-23,WhatsApp,CUS0007
+8,Al Noor Education,Education,Al Rayyan,2025-10-10,Phone,CUS0008
+9,Desert Bloom Hospitality,Healthcare,Al Wakrah,2025-02-05,Direct Sales,CUS0009
+10,Lusail Events Holding,Healthcare,Al Rayyan,2025-04-30,Direct Sales,CUS0010
+11,Abdullah Rahman,Private,Umm Salal,2025-03-25,Phone,CUS0011
+12,Lusail Events Holding,Hotel,Al Rayyan,2025-03-29,Partner,CUS0012
+13,West Bay Medical Center,Healthcare,Al Daayen,2025-05-19,Partner,CUS0013
+14,Pearl Horizon Trading,Government,Al Wakrah,2025-01-17,Phone,CUS0014
+15,Abdullah Al-Thani,Private,Al Wakrah,2025-10-18,Phone,CUS0015
+16,Al Noor Education,Government,Al Shahaniya,2025-03-15,Phone,CUS0016
+17,North Star Logistics,Government,Al Khor,2025-10-27,WhatsApp,CUS0017
+18,Qatar Facilities Co.,Education,Lusail,2025-09-18,WhatsApp,CUS0018
+19,Noora Al-Marri,Corporate,Lusail,2025-08-05,Partner,CUS0019
+20,Crescent Energy Services,Corporate,Al Shahaniya,2025-09-28,Phone,CUS0020
+21,Mohammed Fernandes,Education,Al Rayyan,2025-10-02,Phone,CUS0021
+22,Lusail Events Holding,Healthcare,Al Daayen,2025-03-22,WhatsApp,CUS0022
+23,Abdullah Khan,Corporate,Lusail,2025-09-17,Direct Sales,CUS0023
+24,North Star Logistics,Healthcare,Al Wakrah,2025-03-20,Phone,CUS0024
+25,North Star Logistics,Government,Doha,2025-06-15,WhatsApp,CUS0025
+26,Desert Bloom Hospitality,Corporate,Al Khor,2025-05-03,Direct Sales,CUS0026
+27,Ahmed Al-Thani,Government,Al Shahaniya,2025-02-05,Partner,CUS0027
+28,West Bay Medical Center,Government,Lusail,2025-05-16,Partner,CUS0028
+29,Qatar Facilities Co.,Education,Al Wakrah,2025-06-09,WhatsApp,CUS0029
+30,West Bay Medical Center,Healthcare,Al Shahaniya,2025-03-03,Website,CUS0030
+31,Pearl Horizon Trading,Government,Al Wakrah,2025-04-23,Direct Sales,CUS0031
+32,Pearl Horizon Trading,Corporate,Al Wakrah,2025-02-04,Direct Sales,CUS0032
+33,Qatar Facilities Co.,Hotel,Al Khor,2025-09-06,Website,CUS0033
+34,Crescent Energy Services,Education,Al Shahaniya,2025-05-05,WhatsApp,CUS0034
+35,Hamad Al-Thani,Private,Al Rayyan,2025-08-09,Phone,CUS0035
+36,Hessa Rahman,Private,Doha,2025-02-20,Direct Sales,CUS0036
+37,Omar Das,Private,Al Rayyan,2025-05-08,Website,CUS0037
+38,Gulf Vertex Services,Government,Al Daayen,2025-04-04,Phone,CUS0038
+39,Mariam Ibrahim,Private,Al Rayyan,2025-08-15,Partner,CUS0039
+40,North Star Logistics,Corporate,Doha,2025-02-17,Website,CUS0040
+41,West Bay Medical Center,Government,Al Wakrah,2025-07-25,Direct Sales,CUS0041
+42,Al Noor Education,Government,Al Khor,2025-08-21,Phone,CUS0042
+43,Maha Fernandes,Private,Al Shahaniya,2025-03-21,Website,CUS0043
+44,Pearl Horizon Trading,Hotel,Doha,2025-06-10,Direct Sales,CUS0044
+45,North Star Logistics,Corporate,Lusail,2025-01-30,Partner,CUS0045
+46,Ahmed Patel,Corporate,Al Rayyan,2025-05-01,WhatsApp,CUS0046
+47,Mariam Patel,Corporate,Doha,2025-02-11,WhatsApp,CUS0047
+48,North Star Logistics,Healthcare,Umm Salal,2025-05-14,Website,CUS0048
+49,Qatar Facilities Co.,Healthcare,Al Khor,2025-07-22,Website,CUS0049
+50,West Bay Medical Center,Healthcare,Umm Salal,2025-02-07,Direct Sales,CUS0050
+51,Noora Al-Thani,Private,Al Wakrah,2025-09-17,Phone,CUS0051
+52,Ahmed Al-Sulaiti,Government,Umm Salal,2025-05-26,Website,CUS0052
+53,Maha Thomas,Private,Al Khor,2025-09-28,Direct Sales,CUS0053
+54,Sara Fernandes,Healthcare,Al Rayyan,2025-03-10,Phone,CUS0054
+55,Maha Al-Marri,Corporate,Al Khor,2025-05-25,Partner,CUS0055
+56,Qatar Facilities Co.,Government,Al Khor,2025-09-16,WhatsApp,CUS0056
+57,Fatima Al-Thani,Hotel,Al Daayen,2025-05-22,Direct Sales,CUS0057
+58,Gulf Vertex Services,Corporate,Al Khor,2025-03-24,WhatsApp,CUS0058
+59,North Star Logistics,Education,Doha,2025-02-27,Direct Sales,CUS0059
+60,Maha Al-Kuwari,Healthcare,Umm Salal,2025-10-26,Partner,CUS0060
+61,Pearl Horizon Trading,Government,Al Khor,2025-07-06,Direct Sales,CUS0061
+62,Qatar Facilities Co.,Hotel,Al Rayyan,2025-07-01,Partner,CUS0062
+63,Khalid Al-Sulaiti,Private,Lusail,2025-04-01,WhatsApp,CUS0063
+64,Desert Bloom Hospitality,Corporate,Al Daayen,2025-05-08,Phone,CUS0064
+65,Noora Hassan,Government,Doha,2025-08-29,Website,CUS0065
+66,Ali Al-Mohannadi,Government,Al Khor,2025-04-27,Website,CUS0066
+67,Al Noor Education,Corporate,Umm Salal,2025-05-23,Direct Sales,CUS0067
+68,North Star Logistics,Hotel,Al Daayen,2025-10-02,Phone,CUS0068
+69,Lusail Events Holding,Corporate,Lusail,2025-10-25,Phone,CUS0069
+70,Al Noor Education,Corporate,Umm Salal,2025-06-10,WhatsApp,CUS0070
+71,Noora Hassan,Education,Al Wakrah,2025-05-11,Direct Sales,CUS0071
+72,North Star Logistics,Healthcare,Al Wakrah,2025-07-06,WhatsApp,CUS0072
+73,Omar Patel,Corporate,Umm Salal,2025-03-05,Phone,CUS0073
+74,Al Noor Education,Education,Umm Salal,2025-07-26,Phone,CUS0074
+75,Al Noor Education,Education,Al Daayen,2025-03-31,Partner,CUS0075
+76,North Star Logistics,Education,Doha,2025-06-05,Phone,CUS0076
+77,Crescent Energy Services,Government,Umm Salal,2025-08-27,WhatsApp,CUS0077
+78,Hamad Khan,Private,Al Shahaniya,2025-03-28,Direct Sales,CUS0078
+79,Crescent Energy Services,Hotel,Umm Salal,2025-02-17,Website,CUS0079
+80,Qatar Facilities Co.,Healthcare,Lusail,2025-01-13,Direct Sales,CUS0080
+81,Ahmed Rahman,Government,Al Daayen,2025-10-22,Website,CUS0081
+82,West Bay Medical Center,Healthcare,Al Daayen,2025-05-05,Website,CUS0082
+83,Doha Business Group,Healthcare,Al Daayen,2025-04-23,Website,CUS0083
+84,Pearl Horizon Trading,Healthcare,Al Wakrah,2025-03-04,WhatsApp,CUS0084
+85,Faisal Khan,Government,Umm Salal,2025-08-15,Partner,CUS0085
+86,Hessa Ibrahim,Healthcare,Al Shahaniya,2025-03-23,WhatsApp,CUS0086
+87,Abdullah Das,Private,Al Wakrah,2025-05-22,Partner,CUS0087
+88,Mariam Al-Naimi,Private,Al Shahaniya,2025-02-09,Phone,CUS0088
+89,Desert Bloom Hospitality,Government,Al Rayyan,2025-03-12,Website,CUS0089
+90,Gulf Vertex Services,Government,Al Wakrah,2025-02-02,WhatsApp,CUS0090
+91,Omar Khan,Private,Al Shahaniya,2025-08-01,Direct Sales,CUS0091
+92,Yousef Das,Government,Doha,2025-10-22,WhatsApp,CUS0092
+93,Mohammed Al-Mohannadi,Private,Al Khor,2025-07-19,WhatsApp,CUS0093
+94,North Star Logistics,Education,Al Wakrah,2025-09-07,Website,CUS0094
+95,Pearl Horizon Trading,Hotel,Al Daayen,2025-06-22,WhatsApp,CUS0095
+96,West Bay Medical Center,Healthcare,Lusail,2025-10-01,Direct Sales,CUS0096
+97,Mohammed Al-Thani,Private,Al Daayen,2025-03-11,WhatsApp,CUS0097
+98,Al Noor Education,Government,Umm Salal,2025-04-19,WhatsApp,CUS0098
+99,Al Noor Education,Hotel,Al Khor,2025-08-04,Phone,CUS0099
+100,North Star Logistics,Corporate,Doha,2025-06-29,Website,CUS0100
+101,Pearl Horizon Trading,Healthcare,Doha,2025-05-07,Website,CUS0101
+102,Qatar Facilities Co.,Corporate,Lusail,2025-08-31,Direct Sales,CUS0102
+103,Ali Thomas,Education,Al Khor,2025-07-08,Website,CUS0103
+104,Doha Business Group,Education,Lusail,2025-06-09,Direct Sales,CUS0104
+105,Lusail Events Holding,Education,Al Daayen,2025-07-23,Website,CUS0105
+106,Qatar Facilities Co.,Corporate,Al Rayyan,2025-06-04,Partner,CUS0106
+107,Fatima Al-Mohannadi,Corporate,Al Daayen,2025-07-09,Direct Sales,CUS0107
+108,Pearl Horizon Trading,Education,Al Daayen,2025-09-08,Direct Sales,CUS0108
+109,Reem Fernandes,Private,Al Shahaniya,2025-03-20,WhatsApp,CUS0109
+110,Lusail Events Holding,Government,Al Shahaniya,2025-08-27,WhatsApp,CUS0110
+111,Desert Bloom Hospitality,Healthcare,Al Wakrah,2025-02-14,Phone,CUS0111
+112,Mariam Das,Private,Al Shahaniya,2025-10-19,Partner,CUS0112
+113,Pearl Horizon Trading,Healthcare,Al Shahaniya,2025-06-16,Website,CUS0113
+114,Hamad Al-Mohannadi,Private,Al Khor,2025-06-24,Phone,CUS0114
+115,Lusail Events Holding,Education,Doha,2025-09-22,Website,CUS0115
+116,Al Noor Education,Corporate,Al Shahaniya,2025-10-12,Website,CUS0116
+117,West Bay Medical Center,Healthcare,Al Shahaniya,2025-01-09,Direct Sales,CUS0117
+118,Qatar Facilities Co.,Hotel,Al Khor,2025-10-25,Phone,CUS0118
+119,Maha Khan,Private,Umm Salal,2025-08-06,Partner,CUS0119
+120,West Bay Medical Center,Hotel,Al Khor,2025-06-06,Phone,CUS0120
+121,Qatar Facilities Co.,Government,Umm Salal,2025-03-03,Partner,CUS0121
+122,Qatar Facilities Co.,Healthcare,Al Shahaniya,2025-05-22,Partner,CUS0122
+123,Doha Business Group,Education,Al Wakrah,2025-06-01,Website,CUS0123
+124,Pearl Horizon Trading,Hotel,Lusail,2025-05-21,Direct Sales,CUS0124
+125,Gulf Vertex Services,Corporate,Al Shahaniya,2025-02-22,Direct Sales,CUS0125
+126,West Bay Medical Center,Education,Al Shahaniya,2025-06-24,Website,CUS0126
+127,West Bay Medical Center,Corporate,Al Rayyan,2025-02-03,WhatsApp,CUS0127
+128,Ahmed Patel,Private,Doha,2025-03-19,Website,CUS0128
+129,Ahmed Al-Sulaiti,Education,Al Rayyan,2025-10-13,WhatsApp,CUS0129
+130,Crescent Energy Services,Education,Al Wakrah,2025-09-25,WhatsApp,CUS0130
+131,Ali Al-Naimi,Private,Al Daayen,2025-06-06,Partner,CUS0131
+132,Doha Business Group,Education,Al Wakrah,2025-04-19,Phone,CUS0132
+133,Qatar Facilities Co.,Healthcare,Lusail,2025-10-10,Direct Sales,CUS0133
+134,West Bay Medical Center,Government,Al Shahaniya,2025-05-30,Direct Sales,CUS0134
+135,Lusail Events Holding,Government,Al Shahaniya,2025-02-06,Website,CUS0135
+136,Hamad Hassan,Hotel,Al Rayyan,2025-10-06,Website,CUS0136
+137,Lusail Events Holding,Healthcare,Lusail,2025-02-06,Direct Sales,CUS0137
+138,Sara Rahman,Government,Al Rayyan,2025-08-28,Phone,CUS0138
+139,Lusail Events Holding,Healthcare,Al Shahaniya,2025-08-13,Direct Sales,CUS0139
+140,Al Noor Education,Education,Umm Salal,2025-05-09,Direct Sales,CUS0140
+141,Crescent Energy Services,Corporate,Doha,2025-05-18,Partner,CUS0141
+142,Aisha Rahman,Corporate,Al Shahaniya,2025-05-23,Website,CUS0142
+143,West Bay Medical Center,Education,Al Rayyan,2025-08-29,Phone,CUS0143
+144,Omar Al-Mohannadi,Private,Al Rayyan,2025-03-24,Phone,CUS0144
+145,Dana Al-Naimi,Private,Al Daayen,2025-10-09,Direct Sales,CUS0145
+146,Ahmed Al-Mohannadi,Private,Al Khor,2025-06-15,Direct Sales,CUS0146
+147,Faisal Ibrahim,Private,Doha,2025-10-05,WhatsApp,CUS0147
+148,Fatima Al-Sulaiti,Private,Umm Salal,2025-09-13,WhatsApp,CUS0148
+149,North Star Logistics,Corporate,Lusail,2025-05-28,WhatsApp,CUS0149
+150,Pearl Horizon Trading,Healthcare,Al Wakrah,2025-03-23,Phone,CUS0150
+151,Al Noor Education,Education,Al Rayyan,2025-04-26,Direct Sales,CUS0151
+152,Noora Fernandes,Private,Lusail,2025-09-13,Phone,CUS0152
+153,Al Noor Education,Education,Al Shahaniya,2025-08-30,Website,CUS0153
+154,Maha Al-Marri,Private,Al Daayen,2025-04-08,Partner,CUS0154
+155,Gulf Vertex Services,Education,Al Rayyan,2025-05-22,WhatsApp,CUS0155
+156,Faisal Al-Naimi,Hotel,Doha,2025-05-25,Phone,CUS0156
+157,West Bay Medical Center,Education,Lusail,2025-08-17,Partner,CUS0157
+158,Reem Al-Mohannadi,Private,Al Daayen,2025-08-22,Phone,CUS0158
+159,Mariam Patel,Government,Al Daayen,2025-04-30,WhatsApp,CUS0159
+160,West Bay Medical Center,Corporate,Al Daayen,2025-07-17,Website,CUS0160
+161,Fatima Al-Marri,Private,Umm Salal,2025-02-21,WhatsApp,CUS0161
+162,West Bay Medical Center,Corporate,Doha,2025-03-15,WhatsApp,CUS0162
+163,Ahmed Rahman,Healthcare,Al Khor,2025-06-23,Partner,CUS0163
+164,Doha Business Group,Healthcare,Umm Salal,2025-10-01,WhatsApp,CUS0164
+165,West Bay Medical Center,Hotel,Doha,2025-02-05,Website,CUS0165
+166,Lusail Events Holding,Healthcare,Al Wakrah,2025-02-16,WhatsApp,CUS0166
+167,Noora Rahman,Corporate,Lusail,2025-06-03,Direct Sales,CUS0167
+168,Pearl Horizon Trading,Corporate,Al Khor,2025-07-03,Phone,CUS0168
+169,Khalid Al-Sulaiti,Private,Al Daayen,2025-10-17,Website,CUS0169
+170,Crescent Energy Services,Government,Al Daayen,2025-05-04,WhatsApp,CUS0170
+171,West Bay Medical Center,Education,Al Khor,2025-08-24,Phone,CUS0171
+172,West Bay Medical Center,Healthcare,Al Khor,2025-10-07,Website,CUS0172
+173,Desert Bloom Hospitality,Corporate,Al Khor,2025-08-06,Phone,CUS0173
+174,Sara Al-Sulaiti,Private,Al Daayen,2025-09-05,Direct Sales,CUS0174
+175,Desert Bloom Hospitality,Government,Al Khor,2025-06-01,Direct Sales,CUS0175
+176,Pearl Horizon Trading,Healthcare,Doha,2025-09-12,Phone,CUS0176
+177,Desert Bloom Hospitality,Government,Al Wakrah,2025-04-08,Partner,CUS0177
+178,Gulf Vertex Services,Hotel,Al Rayyan,2025-01-21,Phone,CUS0178
+179,Fatima Patel,Private,Umm Salal,2025-03-09,Direct Sales,CUS0179
+180,Al Noor Education,Hotel,Lusail,2025-04-13,Website,CUS0180
+181,Reem Khan,Education,Al Khor,2025-03-26,Phone,CUS0181
+182,Sara Thomas,Private,Umm Salal,2025-02-28,WhatsApp,CUS0182
+183,Qatar Facilities Co.,Corporate,Al Daayen,2025-10-13,Phone,CUS0183
+184,Mohammed Al-Naimi,Corporate,Al Rayyan,2025-08-21,Phone,CUS0184
+185,Lusail Events Holding,Healthcare,Al Daayen,2025-07-10,Direct Sales,CUS0185
+186,Pearl Horizon Trading,Healthcare,Umm Salal,2025-04-24,Direct Sales,CUS0186
+187,Sara Fernandes,Healthcare,Al Daayen,2025-03-01,Website,CUS0187
+188,Sara Rahman,Corporate,Al Rayyan,2025-02-19,Website,CUS0188
+189,West Bay Medical Center,Education,Umm Salal,2025-10-04,WhatsApp,CUS0189
+190,Gulf Vertex Services,Education,Al Daayen,2025-02-20,WhatsApp,CUS0190
+191,Lusail Events Holding,Education,Doha,2025-07-09,Website,CUS0191
+192,Ali Al-Sulaiti,Private,Umm Salal,2025-02-20,Phone,CUS0192
+193,Reem Al-Kuwari,Education,Al Daayen,2025-05-22,Website,CUS0193
+194,Ali Al-Thani,Corporate,Al Wakrah,2025-01-11,Direct Sales,CUS0194
+195,Gulf Vertex Services,Hotel,Al Wakrah,2025-02-05,Partner,CUS0195
+196,Qatar Facilities Co.,Government,Umm Salal,2025-03-17,Partner,CUS0196
+197,Gulf Vertex Services,Corporate,Lusail,2025-10-04,Phone,CUS0197
+198,Pearl Horizon Trading,Government,Lusail,2025-01-08,Phone,CUS0198
+199,Pearl Horizon Trading,Government,Lusail,2025-05-16,Direct Sales,CUS0199
+200,North Star Logistics,Government,Al Rayyan,2025-02-02,WhatsApp,CUS0200
+201,Reem Khan,Private,Al Rayyan,2025-08-20,Partner,CUS0201
+202,Fatima Thomas,Government,Al Khor,2025-08-23,Direct Sales,CUS0202
+203,Yousef Hassan,Corporate,Al Rayyan,2025-09-09,WhatsApp,CUS0203
+204,Omar Patel,Corporate,Lusail,2025-02-03,Website,CUS0204
+205,Crescent Energy Services,Hotel,Umm Salal,2025-07-15,Partner,CUS0205
+206,North Star Logistics,Education,Al Daayen,2025-02-20,Direct Sales,CUS0206
+207,North Star Logistics,Healthcare,Al Wakrah,2025-08-09,WhatsApp,CUS0207
+208,West Bay Medical Center,Government,Al Daayen,2025-08-01,Direct Sales,CUS0208
+209,Lusail Events Holding,Hotel,Umm Salal,2025-03-20,WhatsApp,CUS0209
+210,Doha Business Group,Corporate,Al Rayyan,2025-08-10,Direct Sales,CUS0210
+211,Gulf Vertex Services,Healthcare,Doha,2025-10-28,Partner,CUS0211
+212,Doha Business Group,Education,Al Daayen,2025-07-01,WhatsApp,CUS0212
+213,Lusail Events Holding,Healthcare,Al Khor,2025-06-30,Direct Sales,CUS0213
+214,Gulf Vertex Services,Education,Al Shahaniya,2025-04-25,Direct Sales,CUS0214
+215,Reem Al-Thani,Hotel,Al Khor,2025-10-21,Website,CUS0215
+216,Maha Das,Private,Doha,2025-05-17,Direct Sales,CUS0216
+217,Lusail Events Holding,Government,Umm Salal,2025-06-29,Direct Sales,CUS0217
+218,Yousef Al-Thani,Government,Lusail,2025-01-16,Direct Sales,CUS0218
+219,Al Noor Education,Healthcare,Al Daayen,2025-08-21,Phone,CUS0219
+220,Desert Bloom Hospitality,Government,Al Rayyan,2025-01-27,Website,CUS0220
+221,Fatima Fernandes,Government,Al Rayyan,2025-05-20,WhatsApp,CUS0221
+222,Crescent Energy Services,Healthcare,Al Shahaniya,2025-08-01,Phone,CUS0222
+223,Noora Al-Mohannadi,Government,Al Daayen,2025-02-26,Phone,CUS0223
+224,West Bay Medical Center,Healthcare,Al Khor,2025-01-24,Website,CUS0224
+225,Fatima Al-Kuwari,Private,Al Wakrah,2025-06-04,Website,CUS0225
+226,Sara Al-Mohannadi,Government,Al Rayyan,2025-01-04,WhatsApp,CUS0226
+227,Gulf Vertex Services,Healthcare,Al Daayen,2025-09-30,Website,CUS0227
+228,Desert Bloom Hospitality,Education,Al Rayyan,2025-07-23,Direct Sales,CUS0228
+229,Mohammed Rahman,Private,Al Rayyan,2025-06-10,Partner,CUS0229
+230,Yousef Thomas,Private,Al Daayen,2025-05-29,Direct Sales,CUS0230
+231,Mohammed Al-Mohannadi,Private,Lusail,2025-08-24,Phone,CUS0231
+232,Doha Business Group,Corporate,Al Wakrah,2025-08-12,Partner,CUS0232
+233,Faisal Al-Thani,Private,Al Daayen,2025-06-08,Phone,CUS0233
+234,Gulf Vertex Services,Government,Al Rayyan,2025-09-19,Direct Sales,CUS0234
+235,Desert Bloom Hospitality,Education,Umm Salal,2025-03-17,Website,CUS0235
+236,Qatar Facilities Co.,Corporate,Lusail,2025-03-20,Direct Sales,CUS0236
+237,Dana Rahman,Government,Al Shahaniya,2025-10-17,Partner,CUS0237
+238,Omar Al-Marri,Hotel,Al Shahaniya,2025-02-04,WhatsApp,CUS0238
+239,Sara Das,Private,Al Khor,2025-01-29,Phone,CUS0239
+240,West Bay Medical Center,Education,Al Shahaniya,2025-01-20,Direct Sales,CUS0240
+241,Ahmed Fernandes,Hotel,Al Rayyan,2025-09-17,WhatsApp,CUS0241
+242,Maha Das,Private,Doha,2025-08-19,Partner,CUS0242
+243,Crescent Energy Services,Healthcare,Al Shahaniya,2025-09-14,Website,CUS0243
+244,Desert Bloom Hospitality,Corporate,Al Rayyan,2025-09-16,Website,CUS0244
+245,West Bay Medical Center,Corporate,Al Shahaniya,2025-09-26,Partner,CUS0245
+246,Desert Bloom Hospitality,Education,Al Khor,2025-07-18,WhatsApp,CUS0246
+247,Pearl Horizon Trading,Hotel,Umm Salal,2025-02-03,Phone,CUS0247
+248,Al Noor Education,Corporate,Al Khor,2025-05-10,Partner,CUS0248
+249,Crescent Energy Services,Government,Lusail,2025-06-29,Phone,CUS0249
+250,Al Noor Education,Healthcare,Lusail,2025-02-13,Phone,CUS0250
+251,Desert Bloom Hospitality,Education,Lusail,2025-09-27,Direct Sales,CUS0251
+252,North Star Logistics,Healthcare,Umm Salal,2025-01-10,Phone,CUS0252
+253,Qatar Facilities Co.,Hotel,Umm Salal,2025-09-06,Website,CUS0253
+254,Khalid Al-Thani,Government,Al Khor,2025-02-21,Partner,CUS0254
+255,Faisal Al-Kuwari,Education,Umm Salal,2025-03-09,Partner,CUS0255
+256,Khalid Al-Marri,Private,Lusail,2025-03-26,WhatsApp,CUS0256
+257,Qatar Facilities Co.,Corporate,Al Shahaniya,2025-05-26,WhatsApp,CUS0257
+258,Lusail Events Holding,Government,Al Shahaniya,2025-04-10,Phone,CUS0258
+259,Ali Rahman,Healthcare,Al Khor,2025-07-15,Partner,CUS0259
+260,Gulf Vertex Services,Education,Al Wakrah,2025-03-12,Phone,CUS0260
+261,Desert Bloom Hospitality,Corporate,Al Rayyan,2025-09-22,Direct Sales,CUS0261
+262,Gulf Vertex Services,Hotel,Al Khor,2025-08-19,Partner,CUS0262
+263,Ahmed Al-Sulaiti,Government,Al Shahaniya,2025-06-28,Direct Sales,CUS0263
+264,Fatima Hassan,Private,Umm Salal,2025-05-01,WhatsApp,CUS0264
+265,Pearl Horizon Trading,Corporate,Umm Salal,2025-02-20,Phone,CUS0265
+266,Lusail Events Holding,Government,Al Shahaniya,2025-03-13,WhatsApp,CUS0266
+267,Mohammed Al-Thani,Private,Doha,2025-05-12,Website,CUS0267
+268,Crescent Energy Services,Government,Al Daayen,2025-02-26,Phone,CUS0268
+269,Pearl Horizon Trading,Government,Al Wakrah,2025-08-03,Partner,CUS0269
+270,Ahmed Al-Thani,Private,Al Shahaniya,2025-10-02,Direct Sales,CUS0270
+271,Qatar Facilities Co.,Healthcare,Lusail,2025-05-30,WhatsApp,CUS0271
+272,Qatar Facilities Co.,Corporate,Al Daayen,2025-04-06,Direct Sales,CUS0272
+273,Ahmed Khan,Education,Doha,2025-07-19,WhatsApp,CUS0273
+274,Desert Bloom Hospitality,Corporate,Al Khor,2025-01-09,Phone,CUS0274
+275,Doha Business Group,Corporate,Umm Salal,2025-03-10,Direct Sales,CUS0275
+276,Gulf Vertex Services,Hotel,Al Shahaniya,2025-09-03,Website,CUS0276
+277,West Bay Medical Center,Government,Doha,2025-05-31,Website,CUS0277
+278,Fatima Al-Mohannadi,Corporate,Al Khor,2025-09-21,WhatsApp,CUS0278
+279,Pearl Horizon Trading,Education,Al Wakrah,2025-05-27,Phone,CUS0279
+280,Omar Al-Naimi,Corporate,Al Rayyan,2025-07-08,WhatsApp,CUS0280
+281,Ali Hassan,Private,Umm Salal,2025-04-06,WhatsApp,CUS0281
+282,North Star Logistics,Healthcare,Al Khor,2025-02-12,WhatsApp,CUS0282
+283,Gulf Vertex Services,Corporate,Al Khor,2025-06-14,Direct Sales,CUS0283
+284,Lusail Events Holding,Corporate,Al Khor,2025-08-17,Partner,CUS0284
+285,West Bay Medical Center,Healthcare,Umm Salal,2025-08-17,Direct Sales,CUS0285
+286,Reem Patel,Healthcare,Al Daayen,2025-05-21,Direct Sales,CUS0286
+287,Al Noor Education,Corporate,Umm Salal,2025-09-20,Website,CUS0287
+288,Crescent Energy Services,Corporate,Al Shahaniya,2025-01-18,Website,CUS0288
+289,Desert Bloom Hospitality,Corporate,Umm Salal,2025-07-16,Partner,CUS0289
+290,West Bay Medical Center,Corporate,Umm Salal,2025-07-10,WhatsApp,CUS0290
+291,North Star Logistics,Corporate,Umm Salal,2025-07-23,Phone,CUS0291
+292,Doha Business Group,Healthcare,Doha,2025-04-06,WhatsApp,CUS0292
+293,North Star Logistics,Education,Al Rayyan,2025-05-15,Phone,CUS0293
+294,Crescent Energy Services,Healthcare,Al Khor,2025-09-09,Website,CUS0294
+295,Doha Business Group,Corporate,Al Shahaniya,2025-03-30,WhatsApp,CUS0295
+296,Omar Fernandes,Corporate,Umm Salal,2025-02-03,Partner,CUS0296
+297,Lusail Events Holding,Education,Lusail,2025-03-31,Phone,CUS0297
+298,Qatar Facilities Co.,Education,Lusail,2025-05-02,WhatsApp,CUS0298
+299,Crescent Energy Services,Corporate,Umm Salal,2025-08-28,Partner,CUS0299
+300,Doha Business Group,Government,Al Rayyan,2025-06-08,WhatsApp,CUS0300
