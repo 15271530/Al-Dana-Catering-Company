@@ -120,7 +120,9 @@ Main Course has the highest average order value at **8.25K**, compared with Live
 
 Main Course leads the monthly category performance chart and peaks in October. **Its strong performance across several months suggests that its success is not limited to a single month.** Comparing monthly **order counts and quantities sold** will help determine whether Main Course performs better because **customers order it more frequently, purchase it in larger quantities, or demand increases during particular events or seasons.**
 
-!image.png
+<p align="center">
+  <img src="https://github.com/15271530/Al-Dana-Catering-Company/blob/b868bdaaab26928a71f7424f4a2593b3531476ab/Visual/Month%20demand.png?raw=true" width="800" alt="Monthly Demand Dashboard">
+</p>
 
 ## <u>What does it mean for the business?</u>
 
