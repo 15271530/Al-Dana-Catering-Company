@@ -68,7 +68,9 @@ Together, these tables support a comprehensive analysis of sales performance, me
 
 Business performance has  remained profitable throughout the analysis period, generating **QAR 19.05M in revenue** against **QAR 12.69M in expenses**, resulting in **QAR 6.36M in net profit** and a **33.39% profit margin**. Weddings contributed the largest share of revenue at **24.76%**, followed by Conferences at **23.04%**. **Umm Salal** was the top-performing city, generating approximately **QAR 1.10M.** However, monthly revenue growth was **volatile**, with a sharp decline toward year-end, highlighting the **need to investigate seasonal demand and strengthen revenue consistency.**
 
-!Executive Summary OverView DashBoard.png
+<p align="center">
+  <img src="https://github.com/15271530/Al-Dana-Catering-Company/blob/97e30cde2a7ea9d8b7c41335969867d51e7663f8/Visual/Executive%20Summary%20OverView%20DashBoard.png?raw=true" width="800" alt="Al Dana Catering Executive Summary Dashboard">
+</p>
 
 **Key Findings**
 
