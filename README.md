@@ -187,7 +187,9 @@ The  records **500 confirmed events**, approximately **202K guests**, an average
 
 **Conferences and weddings** generate the highest event demand, while monthly guest volumes peak in **December and November.** These patterns provide opportunities to improve staffing, food procurement, and event capacity planning.
 
-!image.png
+<p align="center">
+  <img src="https://github.com/15271530/Al-Dana-Catering-Company/blob/1696ba6233a81f8069de01c9d55f4ea6cb3a1dc1/Visual/event%20demand.png?raw=true" width="800" alt="Event Demand Analysis">
+</p>
 
 ### <u>Key Business Insights</u>
 
