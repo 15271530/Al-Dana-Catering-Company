@@ -49,13 +49,18 @@ Together, these tables support a comprehensive analysis of sales performance, me
 
 ### <u>Table classification</u>
 
-!image.png
 
 | Table type | Tables | Purpose |
 | --- | --- | --- |
 | Dimension tables | `dim_customers`, `dim_events`, `dim_date`, `dim_menu` | Describe customers, events, dates, and menu items |
 | Fact tables | `fact_orders`, `fact_orderdetails`, `fact_payment`, `fact_expenses` | Store orders, item-level sales, payments, and expenses |
 | Analytical support tables | `RFM`, `Table` | Support RFM customer segmentation and cohort retention analysis |
+### Entity Relationship Diagram
+
+<p align="center">
+  <img src="https://github.com/15271530/Al-Dana-Catering-Company/blob/232a8150c29aa229e900706f75a273741ea528b9/Visual/Al%20dana%20data%20modelling.png?raw=true" width="800" alt="Al Dana Catering Data Model">
+</p>
+*The ERD illustrates the relationships between transactional, dimensional, and analytical support tables.*
 
 ### <u>Executive Summary</u>
 
