@@ -108,7 +108,9 @@ Main Course generates **52% of total revenue**, supported by the **highest avera
 
 Mixed Grill generates approximately **QAR 2.3M in sales** and **QAR 1.22M in profit**, making it a leading contributor in the displayed dish-level results. Seafood Rice follows with approximately **QAR 2.1M in sales.** These results suggest that **popular, high-value dishes contribute significantly to sales and profit**. **Analyzing each dish's contribution to Main Course revenue will help identify which products drive its overall performance.**
 
-!image.png
+<p align="center">
+  <img src="https://github.com/15271530/Al-Dana-Catering-Company/blob/17bcc9b7afe35773f627357602383cd00a3d8e33/Visual/Strong%20perfoming%20dishes.png?raw=true" width="800" alt="Strong Performing Dishes">
+</p>
 
 #### 2: Higher Average Order Value (AOV)
 
