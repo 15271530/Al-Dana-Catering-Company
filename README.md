@@ -154,7 +154,9 @@ Main Course leads the monthly category performance chart and peaks in October. *
 The reported **71.97% collection rate** and **QAR 6.96 million** outstanding balance make receivables management a key area for further investigation. **Food costs represent the largest visible expense categor**y, while **monthly fluctuations highlight the importance of cash flow forecasting and expenditure monitoring.**
 The most important next steps are to validate the **financial KPIs, identify overdue customer balances, strengthen invoice follow-up**, and **establish a rolling cash flow forecast.** Combined with f**ood cost** and **labor efficiency monitoring**, these actions can improve **working capital visibility** and help management make better-informed financial and operational decisions.
 
-!image.png
+<p align="center">
+  <img src="https://github.com/15271530/Al-Dana-Catering-Company/blob/c032dcbc1a0978159fbd7605b2505514868cd92b/Visual/cashflow%20and%20payment%20analysis.png?raw=true" width="800" alt="Cash Flow and Payment Analysis">
+</p>
 
 ### <u>Key Business Insights</u>
 
